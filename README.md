@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shulaxshan" alt="shulaxshan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shulazshan" target="blank"><img src="https://img.shields.io/twitter/follow/@shulazshan?logo=twitter&style=for-the-badge" alt="@shulazshan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shulazshan" target="blank"> </a> </p>
 
 - 📫 How to reach me **shulazshan@gmail.com**
 
