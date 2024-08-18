@@ -77,9 +77,9 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=entbappy" alt="entbappy" /></a> </p> -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=entbappy&show_icons=true&locale=en&layout=compact" alt="entbappy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shulaxshan&show_icons=true&locale=en&layout=compact" alt="entbappy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=entbappy&show_icons=true&locale=en" alt="entbappy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shulaxshan&show_icons=true&locale=en" alt="entbappy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=entbappy&" alt="entbappy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shulaxshan&" alt="entbappy" /></p>
 
