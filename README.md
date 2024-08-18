@@ -1,27 +1,73 @@
-<h1 align="center">Hi 👋, I'm Chulaxshan Gunasegaram</h1>
-<h3 align="center">A passionate Data Analytics and Business Intelligence Engineer from Sri Lanka</h3>
+<h1 align="left">I' m Chulaxshan</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shulaxshan&label=Profile%20views&color=0e75b6&style=flat" alt="shulaxshan" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shulaxshan" alt="shulaxshan" /></a> </p>
+<h3 align="left">I'm a Data Scientist</h3>
 
-<p align="left"> <a href="https://twitter.com/shulazshan" target="blank"> </a> </p>
+###
 
-- 📫 How to reach me **shulazshan@gmail.com**
+<h4 align="left">I have technical experience and interest in:</h4>
 
-- ⚡ Fun fact **Cool boy**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@shulazshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shulazshan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chulaxshan-gunasegaram-928548137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chulaxshan-gunasegaram-928548137" height="30" width="40" /></a>
-</p>
+<p align="left">* Deep Learning<br>* Machine Learning<br>* Data Visualization<br>* Natural Language Processing<br>* MLOps<br>* Generative AI</p>
+
+###
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://gamefantasy.co.in/wp-content/uploads/2022/07/Tableau-Logo-for-website.jpeg" target="_blank" rel="noreferrer"> <img src="https://gamefantasy.co.in/wp-content/uploads/2022/07/Tableau-Logo-for-website.jpeg" alt="tableau" width="70" height="70"/> </a> <a href="https://static.vecteezy.com/system/resources/previews/001/194/635/original/snowflake-png.png" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/001/194/635/original/snowflake-png.png" alt="snowflake" width="50" height="50"/> </a> <a href="https://www.spheregen.com/wp-content/uploads/2019/07/PowerBI-Logo.png" target="_blank" rel="noreferrer"> <img src="https://www.spheregen.com/wp-content/uploads/2019/07/PowerBI-Logo.png" alt="powerbi" width="50" height="50"/> </a> <a href="https://klimbinvest.co.nz/wp-content/uploads/2018/10/google-data-studio-logo.png" target="_blank" rel="noreferrer"> <img src="https://klimbinvest.co.nz/wp-content/uploads/2018/10/google-data-studio-logo.png" alt="datastudio" width="80" height="50"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shulaxshan&show_icons=true&locale=en&layout=compact" alt="shulaxshan" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shulaxshan&show_icons=true&locale=en" alt="shulaxshan" /></p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shulaxshan&" alt="shulaxshan" /></p>
+###
+
+<h3 align="left">My Hobbies and Interests:</h3>
+
+###
+
+<p align="left">Travelling<br>Game</p>
+
+###
+
+<h4 align="left">You can also find me on:</h4>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/chulaxshan-gunasegaram-928548137/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/shulazshan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="shulazshan@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
